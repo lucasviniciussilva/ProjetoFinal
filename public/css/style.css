@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #52658f !important;
+    color: #1b2029;
+    /*padding-top: 20px !important*/
+}
+
+.imagem {
+    background-image: url(../img/pessoas.png);
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #002244;
+}
+
+footer {
+    background-color: #002244;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+
+    .table-responsive {
+        display: block;
+        position: relative;
+        width: 100%;
+    }
+
+    .table-responsive thead,
+    .table-responsive tbody,
+    .table-responsive th,
+    .table-responsive td,
+    .table-responsive tr {
+        display: block;
+    }
+
+    .table-responsive td,
+    .table-responsive th {
+        height: 35px;
+    }
+
+    .table-responsive thead {
+        float: left;
+    }
+
+    .table-responsive tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+    }
+
+    .table-responsive tbody tr {
+        display: inline-block;
+    }
+}
+
+#pessoa {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#pessoa td,
+#pessoa th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#pessoa tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#pessoa tr:hover {
+    background-color: #ddd;
+}
+
+#pessoa th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #52658f;
+    color: white;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    align-self: center;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+.text-input {
+    width: 290px;
+    height: 30px;
+}
+
+.teste input[type="text"],
+input[type="number"],
+input[type="email"] {
+    border: none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    outline: none;
+}
+
+.teste input[type="text"]:hover,
+input[type="number"]:hover,
+input[type="email"]:hover {
+    cursor: pointer;
+    border: none;
+    border-bottom: 3px solid rgb(69, 20, 158);
+    background: transparent;
+    outline: none;
+    transition: 0.2s;
+}
+
+.teste button {
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    transition: 0.5s;
+    background: #1b2029;
+    height: 35px;
+    width: 100px;
+}
+
+.teste button:hover {
+    cursor: pointer;
+    background: rgb(69, 20, 158);
+    transition: 0.2s;
+}
+
+.oi {
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 20px;
+    transition: 0.5s;
+    background: #1b2029;
+    height: 22px;
+    width: 100px;
+}
+
+.oi:hover {
+    cursor: pointer;
+    background: rgb(69, 20, 158);
+    transition: 0.2s;
+}
