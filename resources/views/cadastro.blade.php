@@ -5,14 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--<link rel="stylesheet" href="../../public/css/style.css">-->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <meta name="robots" content="noindex,nofollow">
     <meta name="description" content="Projeto final feito para o encerramento do curso full-stack feito pela Skill Lab Brasil." />
     <link rel="canonical" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
     <link rel="shortlink" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
-    <!--<meta name="facebook-domain-verification" content="waqwcihn3cfuebsxkotfzcavrl2huv" />-->
     <meta property="og:site_name" content="cadastro" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pt_BR" />
