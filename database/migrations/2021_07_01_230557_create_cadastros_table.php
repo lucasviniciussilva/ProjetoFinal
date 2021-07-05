@@ -18,10 +18,10 @@ class CreateCadastrosTable extends Migration
             $table->string('nome',255);
             $table->integer('idade');
             $table->string('email',255);
-            $table->string('filme',255);
-            $table->string('jogo',255);
-            $table->string('anime',255);
-            $table->string('serie',255);
+            $table->string('filme',255)->nullable();
+            $table->string('jogo',255)->nullable();
+            $table->string('anime',255)->nullable();
+            $table->string('serie',255)->nullable();
             $table->timestamps();
         });
     }

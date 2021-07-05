@@ -2,35 +2,35 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <meta name="robots" content="noindex,nofollow">
-    <meta name="description" content="Email marketing feito para aula de SEO da skill lab Brasil." />
-    <link rel="canonical" href="http://localhost/projetos/Aulas/dia03_06/teste.html" />
-    <link rel="shortlink" href="http://localhost/projetos/Aulas/dia03_06/teste.html" />
-    <meta property="og:site_name" content="concluido" />
+    <meta name="description" content="Projeto final feito para o encerramento do curso full-stack feito pela Skill Lab Brasil." />
+    <link rel="canonical" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <link rel="shortlink" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta property="og:site_name" content="cadastro" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pt_BR" />
-    <meta property="og:url" content="http://localhost/projetos/Aulas/dia03_06/teste.html" />
-    <meta property="og:image" content="https://img.ibxk.com.br/2014/4/materias/3511354759121434-t640.jpg?w=704" />
-    <meta property="og:image:url" content="https://img.ibxk.com.br/2014/4/materias/3511354759121434-t640.jpg?w=704" />
-    <meta property="og:title" content="EMAIL MARKETING PARA AULA" /> 
-    <meta property="og:description" content="Texto de email marketing para a aula de Seo da skill lab brasil" />
+    <meta property="og:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta property="og:image" content="https://localhost/Final/projeto/public/img/pessoas.png" />
+    <meta property="og:image:url" content="https://localhost/Final/projeto/public/img/pessoas.png" />
+    <meta property="og:title" content="Pessoas e suas informações. fale sobre você." /> 
+    <meta property="og:description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta name="author" content="Lucas Vinicius">
     <meta name="creator" content="Lucas Vinicius">
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:url" content="http://localhost/projetos/Aulas/dia03_06/teste.html" />
-    <meta name="twitter:title" content="EMAIL MARKETING PARA AULA" />
-    <meta name="twitter:description" content="Email para aula, mostrar para o professor ver se está aceitável, em função de não ter tido muito tempo" />
-    <meta itemprop="name" content="EMAIL MARKETING PARA AULA" />
-    <meta name="dcterms.title" content="EMAIL MARKETING PARA AULA" />
-    <meta name="dcterms.description" content="Email para aula, mostrar para o professor ver se está aceitável, em função de não ter tido muito tempo" />
+    <meta name="twitter:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta name="twitter:title" content="Pessoas e suas informações." />
+    <meta name="twitter:description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
+    <meta itemprop="name" content="Pessoas e suas informações. fale sobre você." />
+    <meta name="dcterms.title" content="Pessoas e suas informações. fale sobre você." />
+    <meta name="dcterms.description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta name="dcterms.type" content="Text" />
     <meta name="dcterms.format" content="text/html" />
-    <meta name="dcterms.identifier" content="http://localhost/projetos/Aulas/dia03_06/teste.html" />
+    <meta name="dcterms.identifier" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
     <title>Cadastrado</title>
 </head>
 
