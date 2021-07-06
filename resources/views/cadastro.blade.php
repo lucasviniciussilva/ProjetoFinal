@@ -17,7 +17,7 @@
     <meta property="og:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
     <meta property="og:image" content="https://localhost/Final/projeto/public/img/pessoas.png" />
     <meta property="og:image:url" content="https://localhost/Final/projeto/public/img/pessoas.png" />
-    <meta property="og:title" content="Pessoas e suas informações. fale sobre você." /> 
+    <meta property="og:title" content="Pessoas e suas informações. fale sobre você." />
     <meta property="og:description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta name="author" content="Lucas Vinicius">
     <meta name="creator" content="Lucas Vinicius">
@@ -42,17 +42,19 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
 
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
+                        <li><a href="/tela">Início</a></li>
                         <li class="active"><a href="#">Formulário</a></li>
                         <li><a href="/mostra">Listagem</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="imagem"></div>
+            <div class="imagem" alt="Imagem da logo do site: Pessoas e suas informações, fale sobre você"></div>
         </nav>
 
     </header>
@@ -87,22 +89,22 @@
                                     <br><br>
 
                                     <label for="">Filme favorito</label> <br>
-                                    <input class="text-input" type="text" name=filme placeholder="Digite seu filme favorito" required>
+                                    <input class="text-input" type="text" name=filme placeholder="Digite seu filme favorito">
 
                                     <br><br>
 
                                     <label for="">Jogo favorito</label> <br>
-                                    <input class="text-input" type="text" name=jogo placeholder="Digite seu jogo favorito" required>
+                                    <input class="text-input" type="text" name=jogo placeholder="Digite seu jogo favorito">
 
                                     <br><br>
 
                                     <label for="">Anime favorito</label> <br>
-                                    <input class="text-input" type="text" name=anime placeholder="Digite seu anime favorito" required>
+                                    <input class="text-input" type="text" name=anime placeholder="Digite seu anime favorito">
 
                                     <br><br>
 
                                     <label for="">Série favorita</label> <br>
-                                    <input class="text-input" type="text" name=serie placeholder="Digite sua série favorita" required>
+                                    <input class="text-input" type="text" name=serie placeholder="Digite sua série favorita">
 
                                     <br><br>
                                 </section>

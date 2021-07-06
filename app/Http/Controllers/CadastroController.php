@@ -34,6 +34,10 @@ class CadastroController extends Controller
         return view('concluido');
     }
 
+    public function main()
+    {
+        return view('inicial');
+    }
 
     public function mostrar()
     {
