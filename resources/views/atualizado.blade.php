@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
@@ -17,7 +17,7 @@
     <meta property="og:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
     <meta property="og:image" content="https://localhost/Final/projeto/public/img/pessoas.png" />
     <meta property="og:image:url" content="https://localhost/Final/projeto/public/img/pessoas.png" />
-    <meta property="og:title" content="Pessoas e suas informações. fale sobre você." /> 
+    <meta property="og:title" content="Pessoas e suas informações. fale sobre você." />
     <meta property="og:description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta name="author" content="Lucas Vinicius">
     <meta name="creator" content="Lucas Vinicius">
@@ -31,7 +31,7 @@
     <meta name="dcterms.type" content="Text" />
     <meta name="dcterms.format" content="text/html" />
     <meta name="dcterms.identifier" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
-    <title>Cadastrado</title>
+    <title>Atualizado</title>
 </head>
 
 <body>
@@ -47,12 +47,13 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
+                        <li><a href="/tela">Início</a></li>
                         <li><a href="/cadastro">Formulário</a></li>
                         <li><a href="/mostra">Listagem</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="imagem"></div>
+            <div class="imagem" alt="Imagem da logo do site: Pessoas e suas informações, fale sobre você"></div>
         </nav>
 
     </header>

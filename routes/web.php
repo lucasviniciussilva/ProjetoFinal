@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/tela', 'CadastroController@main');
 Route::get('/cadastro', 'CadastroController@create');
 Route::post('/cadastro', 'CadastroController@store')->name('cadastrar_pessoa');
 Route::get('/mostra', 'CadastroController@mostrar');
