@@ -28,9 +28,6 @@ class CadastroController extends Controller
             'serie' => $request->serie
         ]);
 
-        // $teste = '<a href="mostra">Cadastro realizaddo com sucesso clique aqui para visualizar</a>';
-        // return $teste;
-
         return view('concluido');
     }
 
@@ -65,9 +62,6 @@ class CadastroController extends Controller
             'anime' => $request->anime,
             'serie' => $request->serie
         ]);
-
-        // $teste = '<a href="mostra">Cadastro realizaddo com sucesso clique aqui para visualizar</a>';
-        // return $teste;
 
         return view('atualizado');
     }

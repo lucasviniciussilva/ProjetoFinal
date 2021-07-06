@@ -9,12 +9,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <meta name="robots" content="noindex,nofollow">
     <meta name="description" content="Projeto final feito para o encerramento do curso full-stack feito pela Skill Lab Brasil." />
-    <link rel="canonical" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
-    <link rel="shortlink" href="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
-    <meta property="og:site_name" content="cadastro" />
+    <link rel="canonical" href="http://localhost/Final/projeto/resources/views/excluir.blade.php" />
+    <link rel="shortlink" href="http://localhost/Final/projeto/resources/views/excluir.blade.php" />
+    <meta property="og:site_name" content="excluir" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pt_BR" />
-    <meta property="og:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta property="og:url" content="http://localhost/Final/projeto/resources/views/excluir.blade.php" />
     <meta property="og:image" content="https://localhost/Final/projeto/public/img/pessoas.png" />
     <meta property="og:image:url" content="https://localhost/Final/projeto/public/img/pessoas.png" />
     <meta property="og:title" content="Pessoas e suas informações. fale sobre você." />
@@ -22,7 +22,7 @@
     <meta name="author" content="Lucas Vinicius">
     <meta name="creator" content="Lucas Vinicius">
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:url" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta name="twitter:url" content="http://localhost/Final/projeto/resources/views/excluir.blade.php" />
     <meta name="twitter:title" content="Pessoas e suas informações." />
     <meta name="twitter:description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta itemprop="name" content="Pessoas e suas informações. fale sobre você." />
@@ -30,7 +30,7 @@
     <meta name="dcterms.description" content="Trabalho final para ser o projeto de conclusão da skill lab brasil" />
     <meta name="dcterms.type" content="Text" />
     <meta name="dcterms.format" content="text/html" />
-    <meta name="dcterms.identifier" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
+    <meta name="dcterms.identifier" content="http://localhost/Final/projeto/resources/views/excluir.blade.php" />
     <title>Excluir</title>
 </head>
 
