@@ -31,6 +31,7 @@
     <meta name="dcterms.format" content="text/html" />
     <meta name="dcterms.identifier" content="http://localhost/Final/projeto/resources/views/cadastro.blade.php" />
     <title>Tela inicial</title>
+    
 </head>
 
 <body>
